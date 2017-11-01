@@ -1,0 +1,6 @@
+.DS_Store
+**/*.kll
+**/*.bin
+**/*.bin.cpgz
+**/*.h
+**/log/
