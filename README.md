@@ -9,7 +9,7 @@ Keyboard is ready!
 
 ### Infinity ErgoDox Layouts
 
-Built using [the input club configurator](https://input.club/configurator-ergodox/).
+Built using [the input club configurator](http://configurator.inputclub.com/alpha/?layout=MDErgo1-Default).
 
 The goal is a programmer friendly layout that doesn't break my brain. I've
 been using 006 and up for more than a year now.
