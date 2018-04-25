@@ -299,6 +299,10 @@
                 "0": {
                     "key": "LGUI",
                     "label": "LGUI"
+                },
+                "3": {
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
@@ -429,6 +433,10 @@
                 "0": {
                     "key": "PAGEUP",
                     "label": "PGUP"
+                },
+                "3": {
+                    "key": "#:'}'",
+                    "label": "}"
                 }
             }
         },
@@ -442,6 +450,10 @@
                 "0": {
                     "key": "PAGEDOWN",
                     "label": "PGDN"
+                },
+                "3": {
+                    "key": "#:'{'",
+                    "label": "{"
                 }
             }
         },
@@ -494,6 +506,10 @@
                 "0": {
                     "key": "ESCAPE",
                     "label": "ESC"
+                },
+                "3": {
+                    "key": "FUN4",
+                    "label": "\u01924"
                 }
             }
         },
