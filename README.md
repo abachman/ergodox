@@ -27,4 +27,4 @@ The goal is a programmer friendly layout that doesn't break my brain. I've been 
 - layer 3 changes for Fortnite
   - swap LGUI for LALT to avoid accidental command-w quitting games
   - put F4 on secondary left hand escape for building convenience
-  - swap { and } macros for PGUP and PGDN since Fortnite stopped recognizing those
+  - swap . and , for PGUP and PGDN on left thumb since Fortnite stopped recognizing PGUP and PGDN
